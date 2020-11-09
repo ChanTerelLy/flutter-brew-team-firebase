@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677082934537",
+    "firebase_url": "https://broker-account-analyst.firebaseio.com",
+    "project_id": "broker-account-analyst",
+    "storage_bucket": "broker-account-analyst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677082934537:android:9f783a32a0c04c4d8577d8",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677082934537-ap3292rodta0450fft6rqtdre098fgpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "fb36b42cce1f5a56c3aab7729266faf91aa42224"
+          }
+        },
+        {
+          "client_id": "677082934537-qktbokme8cos1b6k7o9m3pr1lnvqjnu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckZAFR8Pak6u3RdJ57lj0eUco1AhFzn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677082934537-qktbokme8cos1b6k7o9m3pr1lnvqjnu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
